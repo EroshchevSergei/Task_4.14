@@ -7,12 +7,20 @@ LICENCE: [MIT](./licence.md)
 ---
 
 ### Содержание:
-1. [The Basics](./basics.md)
+1. [basics](./basics.md)
 2. [git add](./add.md)
 3. [git status](./status.md)
 4. [git commit](./commit.md)
 5. [git remote add origin](./remote.md)
+6. [git push](./push.md)
+7. [git clone](./clone.md)
+8. [git pull](./pull.md)
+9. [git branch](./branch.md)
+10. [git log](./log.md)
 
+### Заключение:
+Вот и все! Моя инструкция окончена. Я очень старался собрать всю самую важную информацию и изложить ее как можно более сжато и кратко.
+Git довольно сложен, и в нем есть еще много функций и трюков.
 
 
 ---
